@@ -1,0 +1,33 @@
+body {
+    background-color: green;
+}
+
+.main_menu {
+    background-color: red;
+}
+
+.main_menu ul,
+.main_menu li {
+    list-style: none;
+    text-decoration: unset;
+    padding: 0;
+    margin: 5px;
+}
+
+.main_menu li {
+    display: inline;
+}
+
+.container {
+    width: 70%;
+    float: left
+}
+
+sidebar {
+    width: 30%;
+    float: left;
+}
+
+.widget_title {
+    color: blue;
+}
